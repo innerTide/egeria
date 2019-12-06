@@ -27,6 +27,7 @@ The current Egeria maintainers are:
 | Ernie Ostic | ernie.ostic@getmanta.com |
 | Chris Replogle | Chris.Replogle@sas.com |
 | Dimitrios Maimaris | dimi.maim@gmail.com |
+| Nguyen Tran | Nguyen.Tran@ing.com |
 
 
 
